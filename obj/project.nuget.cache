@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bUOryUw//9UJX+H9pxhlFbGmF7yBfzfVDf3jz/19HNR+L3FqGEesxIdn8x/ho57+3GGcpMAMR7zFKlHoCCg3jA==",
+  "success": true,
+  "projectFilePath": "/home/jp/code/dio/wex-csharp/Celular/Celular.csproj",
+  "expectedPackageFiles": [
+    "/home/jp/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.11/microsoft.aspnetcore.app.ref.7.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

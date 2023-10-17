@@ -1,0 +1,15 @@
+/home/jp/code/dio/wex-csharp/Celular/bin/Debug/net7.0/Celular
+/home/jp/code/dio/wex-csharp/Celular/bin/Debug/net7.0/Celular.deps.json
+/home/jp/code/dio/wex-csharp/Celular/bin/Debug/net7.0/Celular.runtimeconfig.json
+/home/jp/code/dio/wex-csharp/Celular/bin/Debug/net7.0/Celular.dll
+/home/jp/code/dio/wex-csharp/Celular/bin/Debug/net7.0/Celular.pdb
+/home/jp/code/dio/wex-csharp/Celular/obj/Debug/net7.0/Celular.csproj.AssemblyReference.cache
+/home/jp/code/dio/wex-csharp/Celular/obj/Debug/net7.0/Celular.GeneratedMSBuildEditorConfig.editorconfig
+/home/jp/code/dio/wex-csharp/Celular/obj/Debug/net7.0/Celular.AssemblyInfoInputs.cache
+/home/jp/code/dio/wex-csharp/Celular/obj/Debug/net7.0/Celular.AssemblyInfo.cs
+/home/jp/code/dio/wex-csharp/Celular/obj/Debug/net7.0/Celular.csproj.CoreCompileInputs.cache
+/home/jp/code/dio/wex-csharp/Celular/obj/Debug/net7.0/Celular.dll
+/home/jp/code/dio/wex-csharp/Celular/obj/Debug/net7.0/refint/Celular.dll
+/home/jp/code/dio/wex-csharp/Celular/obj/Debug/net7.0/Celular.pdb
+/home/jp/code/dio/wex-csharp/Celular/obj/Debug/net7.0/Celular.genruntimeconfig.cache
+/home/jp/code/dio/wex-csharp/Celular/obj/Debug/net7.0/ref/Celular.dll
